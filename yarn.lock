@@ -443,6 +443,11 @@
   dependencies:
     type-detect "4.0.8"
 
+"@types/async@^3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@types/async/-/async-3.2.1.tgz#14dd3f50b1e664ee834a5efdd3c9895f56c1649b"
+  integrity sha512-r/lKpgD0b4dz/relMdFUhhSSgP4UmbrEEsxxFMSZkIbbDF2Tehs6xUHlFHGVVFQDfhCoBUqX94vjCNIqbcU21A==
+
 "@types/babel__core@^7.1.7":
   version "7.1.7"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.7.tgz#1dacad8840364a57c98d0dd4855c6dd3752c6b89"
@@ -925,6 +930,11 @@ astral-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/astral-regex/-/astral-regex-1.0.0.tgz#6c8c3fb827dd43ee3918f27b82782ab7658a6fd9"
   integrity sha512-+Ryf6g3BKoRc7jfp7ad8tM4TtMiaWvbF/1/sQcZPkkS7ag3D5nMBCe2UfOTONtAkaG0tO0ij3C5Lwmf1EiyjHg==
+
+async@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.0.tgz#b3a2685c5ebb641d3de02d161002c60fc9f85720"
+  integrity sha512-TR2mEZFVOj2pLStYxLht7TyfuRzaydfpxr3k9RpHIzMgw7A64dzsdqCxH1WJyQdoe8T10nDXd9wnEigmiuHIZw==
 
 asynckit@^0.4.0:
   version "0.4.0"
